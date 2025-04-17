@@ -1,0 +1,7 @@
+database.ini
+
+__pycache__/
+*.pyc
+
+requirements.txt
+
